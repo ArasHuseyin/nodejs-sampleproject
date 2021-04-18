@@ -1,0 +1,107 @@
+.ui-w-80 {
+    width: 100px !important;
+    height: auto;
+}
+
+.btn-default {
+    border-color: rgba(24, 28, 33, 0.1);
+    background: rgba(0, 0, 0, 0);
+    color: #4E5155;
+}
+
+label.btn {
+    margin-bottom: 0;
+}
+
+.btn-outline-primary {
+    border-color: #000000 !important;
+    background: transparent !important;
+    color: #000000 !important;
+}
+
+#btn-save:hover, #btn-reset:hover {
+    background-color: #353b48 !important;
+    color: white !important;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.text-light {
+    color: #babbbc !important;
+}
+
+.card {
+    background-clip: padding-box;
+    box-shadow: 0 1px 4px rgba(24, 28, 33, 0.012);
+    width: 90% !important;
+}
+
+.row-bordered {
+    overflow: hidden;
+}
+
+.account-settings-fileinput {
+    position: absolute;
+    visibility: hidden;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+}
+
+#settings-container {
+    width: 100%;
+    list-style: none;
+}
+
+.light-style {
+    box-sizing: border-box !important;
+    margin-left: 25% !important;
+    width: 75% !important;
+}
+
+#list-group {
+    width: 100% !important;
+}
+
+#control-settings {
+    box-sizing: border-box !important;
+    padding: 0%;
+    width: 100%;
+}
+
+.no-gutters {
+    background-color: rgb(192, 192, 192) !important;
+}
+
+#save-changes-btn {
+    background-color: #353b48;
+}
+
+.custom {
+    border-bottom: 1px solid #c4c4c4 !important;
+    margin: 0 !important;
+    padding: 18px 16px 10px !important;
+    background-color: #353b48 !important;
+}
+
+.settings {
+    color: #586379;
+}
+
+.alert-danger-alt {
+    border-color: #B63E5A;
+    background: #E26868;
+    color: #fff;
+}
+
+.alert-success-alt {
+    border-color: #19B99A;
+    background: #20A286;
+    color: #fff;
+}
+
+.glyphicon {
+    margin-right: 10px;
+}
